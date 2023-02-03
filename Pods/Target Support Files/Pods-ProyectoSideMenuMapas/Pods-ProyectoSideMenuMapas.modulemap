@@ -1,0 +1,6 @@
+framework module Pods_ProyectoSideMenuMapas {
+  umbrella header "Pods-ProyectoSideMenuMapas-umbrella.h"
+
+  export *
+  module * { export * }
+}
